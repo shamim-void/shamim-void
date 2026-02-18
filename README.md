@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## Hey!! 👋
 **shamim-void/shamim-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cyber, Finance and Quant
 - 📫 How to reach me: email me
 - ⚡ Fun fact: I follow Dr Berg for everything related to healthy living
--->
