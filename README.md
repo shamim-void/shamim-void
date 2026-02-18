@@ -1,5 +1,5 @@
 ## Hey!! 👋
-**shamim-void/shamim-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//**shamim-void/shamim-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on Cyber Security, GRC Focused Risk Mitigation Strategies
